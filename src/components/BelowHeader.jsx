@@ -45,7 +45,7 @@ const BelowHeader = () => {
         <div className="flex items-center gap-2">
           <BlinkingDot />
           <a
-            href="https://drive.google.com/file/d/1snpsPisb-_DXdHlt_NT3r3XbMWjaDXu2/view?usp=sharing" //Resume link
+            href="https://drive.google.com/file/d/1bAjFQzGkNOpvZ0iVl_wCpiO50Fcy_Kkv/view?usp=sharing" //Resume link
             className="font-semibold underline"
             style={{ textDecorationColor: "rgb(239, 68, 68)" }} // Bright red color
           >
